@@ -71,12 +71,12 @@ FROM invoices
 WHERE Total in (1.98, 3.96)
 ORDER BY InvoiceDate;
 
---Сколько записей возвращает указанный выше запрос?
+--How many records does the above query return?
 SELECT count(*)
 FROM invoices
 WHERE Total in (1.98, 3.96);
 
---Напишите запрос, в котором перечислены все счета на сумму $13,86, $18,86 и $21,86.
+--Write a query that lists all invoices for 13.86, 18.86, and 21.86.
 SELECT InvoiceDate,
        BillingAddress,
        BillingCity,

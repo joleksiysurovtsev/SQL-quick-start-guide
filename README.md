@@ -11,5 +11,7 @@ practical exercises from the book
 - ## [Работа с базой данных](thesis/CHAPTER3.MD) ## 
 
 - ## [Работа с запросами ](thesis/CHAPTER4.MD) ## 
-- 
-- ## [Преобразование данных в информацию ](thesis/CHAPTER5.MD) ## 
+
+- ## [Преобразование данных в информацию](thesis/CHAPTER5.MD) ## 
+
+- ## [Работа с несколькими таблицами](thesis/CHAPTER6.MD) ## 

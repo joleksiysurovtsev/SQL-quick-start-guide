@@ -70,6 +70,13 @@ FROM invoices AS i
 ORDER BY i.Total DESC
 LIMIT 10;
 ------------------------------------------------------------------------------------------------------------------------
+SELECT ar.ArtistId AS [ArtistId From Artists Table],
+       al.ArtistId AS [ArtistId From Albums Table],
+       ar.Name     AS [Artist Name],
+       al.Title    AS [Album Title]
+FROM artists AS ar
+         LEFT OUTER JOIN albums AS al ON ar.ArtistId = al.ArtistId;
+------------------------------------------------------------------------------------------------------------------------
 SELECT ar.ArtistId AS [artist_id_from_artist_table],
        al.ArtistId AS [artist_id_from_album_table],
        ar.Name     AS [artist_name],

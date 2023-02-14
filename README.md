@@ -18,9 +18,8 @@ practical exercises from the book
         + [Дата и время](thesis/CHAPTER1.MD#дата-и-время)
         + [Логический тип данных](thesis/CHAPTER1.MD#логический-тип-данных)
     - [Системы управления реляционными базами данных](thesis/CHAPTER1.MD#системы-управления-реляционными-базами-данных)
-    - [Оператор SELEC](thesis/CHAPTER1.MD#оператор-select)
-- ## [Инструменты и стратегии SQL](thesis/CHAPTER2.MD) ## 
-
+    - [Оператор SELECT](thesis/CHAPTER1.MD#оператор-select)
+- 
 - ## [Работа с базой данных](thesis/CHAPTER3.MD) ## 
 
 - ## [Работа с запросами ](thesis/CHAPTER4.MD) ## 

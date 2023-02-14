@@ -19,7 +19,7 @@ practical exercises from the book
         + [Логический тип данных](thesis/CHAPTER1.MD#логический-тип-данных)
     - [Системы управления реляционными базами данных](thesis/CHAPTER1.MD#системы-управления-реляционными-базами-данных)
     - [Оператор SELECT](thesis/CHAPTER1.MD#оператор-select)
-- 
+
 - ## [Работа с базой данных](thesis/CHAPTER3.MD) ## 
 
 - ## [Работа с запросами ](thesis/CHAPTER4.MD) ## 

@@ -15,5 +15,5 @@ practical exercises from the book
 - ## [Преобразование данных в информацию](thesis/CHAPTER5.MD) ## 
 
 - ## [Работа с несколькими таблицами](thesis/CHAPTER6.MD) ## 
-- 
+
 - ## [Функции языка SQL](thesis/CHAPTER7.MD) ## 
